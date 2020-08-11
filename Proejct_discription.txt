@@ -1,0 +1,2 @@
+The main aim of this project is to develop tools to analyze chest r-ray images by detecting COVID-19. If we can develop this tool, the problem of the COVID-19 testing kit will be eliminated.
+chest x-ray image used for input. the output is COVID-19 positive or negative. To train our model we use 5308 chest x-ray images. Here 1300 images of normal people and 4000 images of affected people.
