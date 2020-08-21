@@ -1,0 +1,16 @@
+1.cv2
+2.numpy
+3.mathplotlib.pyplot
+4.os
+5.random
+6.tqdm
+7.tflearn
+8.tflearn.layers.conv
+9.tflearn.layers.core
+10.tflearn.layers.estimatortensorflow
+11.tensorflow
+12.mathplotlib.pyplot
+13.sklearn.metrics
+
+This libraries in python needs our project. That's why I think, at first we learn properly about of libraries.
+
